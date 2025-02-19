@@ -71,6 +71,7 @@ button {
     left: 0;
     top: 0;
     width: 100%;
+    text-shadow: 6px 4px var(--darker-green);
 }
 
 .footer {
