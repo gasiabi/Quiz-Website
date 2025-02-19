@@ -51,6 +51,11 @@ button {
     box-sizing: border-box; 
     text-align: center; 
     cursor: pointer;
+    border-radius: 2rem;
+    color: var(--darker-green);
+    background-color: white;
+    font-size: 1rem;
+
 }
 
 
